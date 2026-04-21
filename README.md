@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FullGrass
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java OOP.
   
   
   
